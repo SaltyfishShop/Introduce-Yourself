@@ -3,7 +3,7 @@ name: Render README.md
 on:
   push:
     branches:
-      - 'master'
+      - 'main'
       - 'push-action/**'
     paths:
       - 'members'
