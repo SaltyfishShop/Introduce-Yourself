@@ -83,3 +83,10 @@ Misc:
 ### mid2rain
 大家好，我是中二雨，zju自动化（控制）大三学生这是我的blog：[https://mid2rain.github.io/](https://mid2rain.github.io/)
 本来打算做成技术向blog，结果因为各种随笔和吐槽太多，变成日常向了~~悲鸣！~~
+
+---
+
+### 小胖一族눈_눈
+大家好俺是Yuan_Xiaopang，21级自动化（电气）在读
+我的notion主页：https://www.notion.so/Yuan_Lingzhi-s-cosmos-11f490b47c9a4c1c8b856d425867e558
+里面放着俺追的剧&课程笔记～（有点简陋就是说）
