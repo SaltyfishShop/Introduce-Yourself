@@ -23,7 +23,7 @@
 ---
 
 ### 27rabbit
-我是 2019 级计科学生 27rabbit，27rabbitlt.github.io 有似有似无的笔记，为了学英语强迫自己写点英文内容
+我是 2019 级计科学生 27rabbit，[27rabbitlt.github.io](https://27rabbitlt.github.io/) 有似有似无的笔记，为了学英语强迫自己写点英文内容
 
 想要成为数学家和运维
 
