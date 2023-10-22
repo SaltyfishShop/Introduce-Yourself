@@ -2,6 +2,9 @@ name: Render README.md
 
 on:
   push:
+    branches:
+      - 'master'
+      - 'push-action/**'
     paths:
       - 'members'
       - '.github/workflows/render.yml'
@@ -14,6 +17,8 @@ jobs:
     steps:
     - name: checkout
       uses: actions/checkout@master
+      with:
+        persist-credentials: false
     - name: setup Python
       uses: actions/setup-python@v3.1.0
       with:
