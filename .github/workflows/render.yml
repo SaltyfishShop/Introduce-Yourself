@@ -32,5 +32,6 @@ jobs:
       with:
         github_token: ${{ secrets.ACCESS_TOKEN }}
         branch: ${{ github.ref }}
+        unprotect_reviews: true
 
   
