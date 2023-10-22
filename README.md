@@ -47,3 +47,19 @@
 
 ### vinci
 大家好，我是vinci，zju在读研究生，这是我的github：[https://github.com/vinci-897](https://github.com/vinci-897)，欢迎关注。
+
+---
+
+### Zicx
+
+ZJU 20级本科生，技能点点的很怪，对3DV和CG感兴趣
+
+Misc:
+- Homepage: https://zicx.top/home
+- Notebook: https://zicx.top/notebook
+- Startpage: https://zicx.top/startpage
+
+```diff
++ 如果你喜欢 VIM，那我们就是好朋友！
++ 我用的 neovim 配置在这里：https://github.com/cxzhou35/Awesome-neovim
+```
