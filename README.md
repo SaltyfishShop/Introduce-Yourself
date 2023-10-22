@@ -63,3 +63,17 @@ Misc:
 + 如果你喜欢 VIM，那我们就是好朋友！
 + 我用的 neovim 配置在这里：https://github.com/cxzhou35/Awesome-neovim
 ```
+
+---
+
+### 𝒞ℴ𝓁𝒹_𝒾𝓃𝓀 - JiepengLab
+
+我是𝒞ℴ𝓁𝒹_𝒾𝓃𝓀！是22级混合计科工高人！
+我的**笔记本**部署在：https://note.jiepeng.tech，记录自己在计科和工高的学习~
+大二上才刚开始写！希望这半年过去能完成好多高质量的笔记！
+然后加好多好多友链！
+
+搞了个可**自定义**的轻首页: https://note.jiepeng.tech/nav
+欢迎大家来玩！
+
+
