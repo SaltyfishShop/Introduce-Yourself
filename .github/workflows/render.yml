@@ -28,7 +28,7 @@ jobs:
         git add .
         git diff-index --quiet HEAD || git commit -m "render README.md"
     - name: push changes
-      uses: ad-m/github-push-action@master
+      uses: CasperWA/push-protected@v2
       with:
         github_token: ${{ secrets.ACCESS_TOKEN }}
         branch: ${{ github.ref }}
