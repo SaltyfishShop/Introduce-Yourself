@@ -35,7 +35,7 @@ jobs:
     - name: push changes
       uses: CasperWA/push-protected@v2
       with:
-        github_token: ${{ secrets.ACCESS_TOKEN }}
+        token: ${{ secrets.ACCESS_TOKEN }}
         branch: ${{ github.ref }}
         unprotect_reviews: true
 
