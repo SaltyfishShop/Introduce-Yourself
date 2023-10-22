@@ -87,6 +87,7 @@ Misc:
 ---
 
 ### 小胖一族눈_눈
-大家好俺是Yuan_Xiaopang，21级自动化（电气）在读
-我的notion主页：https://www.notion.so/Yuan_Lingzhi-s-cosmos-11f490b47c9a4c1c8b856d425867e558
+大家好俺是Yuan_Xiaopang，21级自动化（电气）在读\
+我的notion主页：https://www.notion.so/Yuan_Lingzhi-s-cosmos-11f490b47c9a4c1c8b856d425867e558\
 里面放着俺追的剧&课程笔记～（有点简陋就是说）
+爱好是看live听歌和干饭和追剧！
