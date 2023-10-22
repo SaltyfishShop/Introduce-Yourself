@@ -42,3 +42,8 @@
 搞了一个 ZJU-CS 的[资源大汇总](https://isshikihugh.github.io/zju-cs-asio/)
 
 欢迎大家来玩！
+
+---
+
+### vinci
+我是zju在读研究生vinci，[https://github.com/vinci-897](https://github.com/vinci-897)，欢迎互关。
