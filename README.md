@@ -26,3 +26,19 @@
 我是 2019 级计科学生 27rabbit，27rabbitlt.github.io 有似有似无的笔记，为了学英语强迫自己写点英文内容
 
 想要成为数学家和运维
+
+---
+
+### Isshiki修
+
+我是 Isshiki修！是 ZJU 21 级计算机科学与技术的本科生；目前在尝试着学习 CV/motion capture and synthesis 方向的相关内容。毕业堪忧！
+
+是一个感觉自己应该热爱计算机技术，同时也热爱文学的思想的巨人&行动且现实的矮子！
+ 
+以前的笔记大多更新在 [💩 yuque 数字花园](https://www.yuque.com/isshikixiu)
+
+不过现在搭了自己的笔记本 [🔋 Isshiki修's Notebook](https://note.isshikih.top/)
+
+搞了一个 ZJU-CS 的[资源大汇总](https://isshikihugh.github.io/zju-cs-asio/)
+
+欢迎大家来玩！
