@@ -77,3 +77,9 @@ Misc:
 欢迎大家来玩！
 
 
+
+---
+
+### mid2rain
+大家好，我是中二雨，zju自动化（控制）大三学生这是我的blog：[https://mid2rain.github.io/](https://mid2rain.github.io/)
+本来打算做成技术向blog，结果因为各种随笔和吐槽太多，变成日常向了~~悲鸣！~~
