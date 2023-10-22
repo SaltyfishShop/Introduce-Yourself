@@ -69,11 +69,14 @@ Misc:
 ### 𝒞ℴ𝓁𝒹_𝒾𝓃𝓀 - JiepengLab
 
 我是𝒞ℴ𝓁𝒹_𝒾𝓃𝓀！是22级混合计科工高人！
+
 我的**笔记本**部署在：https://note.jiepeng.tech，记录自己在计科和工高的学习~
+
 大二上才刚开始写！希望这半年过去能完成好多高质量的笔记！
 然后加好多好多友链！
 
 搞了个可**自定义**的轻首页: https://note.jiepeng.tech/nav
+
 欢迎大家来玩！
 
 
@@ -99,4 +102,13 @@ Misc:
 
 大家好，我是21级数学学院的Frankgu, 主要关注时序数据的建模。目前在做脑电波相关的任务。
 这是[我的Github](https://github.com/Frankgu3528)，欢迎Follow。
+
+
+---
+
+### HobbitQia
+
+大家好👋我是 ZJU 21 级图灵班 CS 专业的 HobbitQia，全网同 ID，笔记在[这里捏](https://note.hobbitqia.cc/)~  
+目前对 MLsys 感兴趣（迫真  
+总之欢迎来玩~
 
