@@ -2,6 +2,9 @@ name: Render README.md
 
 on:
   push:
+    branches:
+      - 'main'
+      - 'push-action/**'
     paths:
       - 'members'
       - '.github/workflows/render.yml'
@@ -14,6 +17,8 @@ jobs:
     steps:
     - name: checkout
       uses: actions/checkout@master
+      with:
+        persist-credentials: false
     - name: setup Python
       uses: actions/setup-python@v3.1.0
       with:
@@ -28,9 +33,9 @@ jobs:
         git add .
         git diff-index --quiet HEAD || git commit -m "render README.md"
     - name: push changes
-      uses: ad-m/github-push-action@master
+      uses: CasperWA/push-protected@v2
       with:
-        github_token: ${{ secrets.ACCESS_TOKEN }}
-        branch: ${{ github.ref }}
+        token: ${{ secrets.ACCESS_TOKEN }}
+        unprotect_reviews: true
 
   
