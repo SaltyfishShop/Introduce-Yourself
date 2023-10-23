@@ -112,3 +112,14 @@ Misc:
 目前对 MLsys 感兴趣（迫真  
 总之欢迎来玩~
 
+
+---
+
+### fufu酱
+
+大家好，我是fufu酱，现在是ZJU22级CS人，目前也在ITP和xlab
+平时爱好划水摸鱼和摆烂，要说一点的话就是很喜欢看⚽️和🏀，巴萨&warriors
+目前对fintech以及web3比较感兴趣，我的[blog](https://notion-next-six-rouge.vercel.app/)放在这里了,会放一些课程笔记技术分享，以及fintech的weekly insight
+总之快来找我玩～
+
+
