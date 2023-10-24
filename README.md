@@ -22,7 +22,7 @@
 
 ---
 
-### 27rabbit
+### 27rabbit  
 我是 2019 级计科学生 27rabbit，[27rabbitlt.github.io](https://27rabbitlt.github.io/) 有似有似无的笔记，为了学英语强迫自己写点英文内容
 
 想要成为数学家和运维
@@ -33,8 +33,8 @@
 
 我是 Isshiki修！是 ZJU 21 级计算机科学与技术的本科生；目前在尝试着学习 CV/motion capture and synthesis 方向的相关内容。毕业堪忧！
 
-是一个感觉自己应该热爱计算机技术，同时也热爱文学的思想的巨人&行动且现实的矮子！
- 
+是一个感觉自己应该热爱计算机技术，同时也热爱文学的思想的巨人&行动且现实的矮子！  
+   
 以前的笔记大多更新在 [💩 yuque 数字花园](https://www.yuque.com/isshikixiu)
 
 不过现在搭了自己的笔记本 [🔋 Isshiki修's Notebook](https://note.isshikih.top/)
@@ -45,9 +45,9 @@
 
 ---
 
-### vinci
-大家好，我是vinci，zju cs在读研究生。
-这是我的github：[https://github.com/vinci-897](https://github.com/vinci-897)，欢迎关注。
+### vinci  
+大家好，我是vinci，zju cs在读研究生。  
+这是我的github：[https://github.com/vinci-897](https://github.com/vinci-897)，欢迎关注。  
 以及，这是我的个人主页：[https://vinci-897.github.io/](https://vinci-897.github.io/)。
 
 ---
@@ -56,14 +56,14 @@
 
 ZJU 20级本科生，技能点点的很怪，对3DV和CG感兴趣
 
-Misc:
-- Homepage: https://zicx.top/home
-- Notebook: https://zicx.top/notebook
+Misc:  
+- Homepage: https://zicx.top/home  
+- Notebook: https://zicx.top/notebook  
 - Startpage: https://zicx.top/startpage
 
-```diff
-+ 如果你喜欢 VIM，那我们就是好朋友！
-+ 我用的 neovim 配置在这里：https://github.com/cxzhou35/Awesome-neovim
+```diff  
++ 如果你喜欢 VIM，那我们就是好朋友！  
++ 我用的 neovim 配置在这里：https://github.com/cxzhou35/Awesome-neovim  
 ```
 
 ---
@@ -74,7 +74,7 @@ Misc:
 
 我的**笔记本**部署在：https://note.jiepeng.tech，记录自己在计科和工高的学习~
 
-大二上才刚开始写！希望这半年过去能完成好多高质量的笔记！
+大二上才刚开始写！希望这半年过去能完成好多高质量的笔记！  
 然后加好多好多友链！
 
 搞了个可**自定义**的轻首页: https://note.jiepeng.tech/nav
@@ -85,25 +85,25 @@ Misc:
 
 ---
 
-### mid2rain
-大家好，我是中二雨，zju自动化（控制）大三学生这是我的blog：[https://mid2rain.github.io/](https://mid2rain.github.io/)
+### mid2rain  
+大家好，我是中二雨，zju自动化（控制）大三学生这是我的blog：[https://mid2rain.github.io/](https://mid2rain.github.io/)  
 本来打算做成技术向blog，结果因为各种随笔和吐槽太多，变成日常向了~~悲鸣！~~
 
 ---
 
-### 小胖一族눈_눈
-大家好俺是Yuan_Xiaopang，21级自动化（电气）在读\
-我的notion主页：https://www.notion.so/Yuan_Lingzhi-s-cosmos-11f490b47c9a4c1c8b856d425867e558
-\
-里面放着俺追的剧&课程笔记～（有点简陋就是说）
+### 小胖一族눈_눈  
+大家好俺是Yuan_Xiaopang，21级自动化（电气）在读\  
+我的notion主页：https://www.notion.so/Yuan_Lingzhi-s-cosmos-11f490b47c9a4c1c8b856d425867e558  
+\  
+里面放着俺追的剧&课程笔记～（有点简陋就是说）  
 爱好是看live听歌和干饭和追剧！
 
 ---
 
 ### Frankgu
 
-大家好，我是21级数学学院的Frankgu, 主要关注时序数据的建模。目前在做脑电波相关的任务。
-这是[我的Github](https://github.com/Frankgu3528)，欢迎Follow。
+大家好，我是21级数学学院的Frankgu, 主要关注时序数据的建模。目前在做脑电波相关的任务。  
+这是[我的Github](https://github.com/Frankgu3528)，欢迎Follow。  
 
 
 ---
@@ -112,16 +112,16 @@ Misc:
 
 大家好👋我是 ZJU 21 级图灵班 CS 专业的 HobbitQia，全网同 ID，笔记在[这里捏](https://note.hobbitqia.cc/)~  
 目前对 MLsys 感兴趣（迫真  
-总之欢迎来玩~
+总之欢迎来玩~  
 
 
 ---
 
 ### fufu酱
 
-大家好，我是fufu酱，现在是ZJU22级CS人，目前也在ITP和xlab
-平时爱好划水摸鱼和摆烂，要说一点的话就是很喜欢看⚽️和🏀，巴萨&warriors
-目前对fintech以及web3比较感兴趣，我的[blog](https://notion-next-six-rouge.vercel.app/)放在这里了,会放一些课程笔记技术分享，以及fintech的weekly insight
+大家好，我是fufu酱，现在是ZJU22级CS人，目前也在ITP和xlab  
+平时爱好划水摸鱼和摆烂，要说一点的话就是很喜欢看⚽️和🏀，巴萨&warriors  
+目前对fintech以及web3比较感兴趣，我的[blog](https://notion-next-six-rouge.vercel.app/)放在这里了,会放一些课程笔记技术分享，以及fintech的weekly insight  
 总之快来找我玩～
 
 
