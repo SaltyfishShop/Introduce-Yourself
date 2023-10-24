@@ -46,7 +46,9 @@
 ---
 
 ### vinci
-大家好，我是vinci，zju在读研究生，这是我的github：[https://github.com/vinci-897](https://github.com/vinci-897)，欢迎关注。
+大家好，我是vinci，zju cs在读研究生。
+这是我的github：[https://github.com/vinci-897](https://github.com/vinci-897)，欢迎关注。
+以及，这是我的个人主页：[https://vinci-897.github.io/](https://vinci-897.github.io/)。
 
 ---
 
