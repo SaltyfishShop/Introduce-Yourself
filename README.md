@@ -142,3 +142,13 @@ Misc:
 
 大家好呀我是华零，22级软工的一只菜狗啦，自己的小博客在[这里](https://hzeroyuke.github.io/my_blog/)   
 喜欢水群和桌游，喜欢和朋友一起出去玩或者干饭，同时是一只半二次元，博客未来会努力更新的（尽量克服拖延症），欢迎大家来找我玩~
+
+---
+
+### Chrtich | 克瑞奇
+
+ZJU20 级信息安全 Chritch  
+个人主页：https://zerokei.top  
+笔记本：https://obsidian.zerokei.top  
+常用软件：Obsidian / Notion  
+欢迎关注我的 [Github](https://github.com/Zerokei) 以及 star 我的项目！
