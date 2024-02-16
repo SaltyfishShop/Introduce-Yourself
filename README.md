@@ -152,3 +152,9 @@ ZJU20 级信息安全 Chritch
 笔记本：https://obsidian.zerokei.top  
 常用软件：Obsidian / Notion  
 欢迎关注我的 [Github](https://github.com/Zerokei) 以及 star 我的项目！
+
+---
+
+### 66666a  
+大家好，我是66666a/GinGo，22过控er。  
+我的博客在[这里](https://jzl-66666a.github.io/),刚搭了个博客的架子,之后再慢慢补充吧（
